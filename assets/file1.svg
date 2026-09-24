@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360">
+  <rect width="600" height="360" fill="#ffffff"/>
+  <rect x="60" y="40" width="8" height="140" fill="#5b6ef5"/>
+  <text x="90" y="90" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#444">"Design is not just</text>
+  <text x="90" y="120" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#444">what it looks like."</text>
+  <text x="480" y="165" font-family="Georgia, serif" font-size="14" fill="#888" text-anchor="end">— Steve Jobs</text>
+  <rect x="60" y="220" width="480" height="1" fill="#ddd"/>
+  <rect x="60" y="220" width="480" height="30" fill="#f0f0f2"/>
+  <text x="75" y="240" font-family="Georgia, serif" font-size="13" font-weight="600" fill="#333">Header</text>
+  <rect x="60" y="251" width="480" height="30" fill="#ffffff" stroke="#ddd"/>
+  <text x="75" y="271" font-family="Georgia, serif" font-size="13" fill="#333">Row value</text>
+</svg>
