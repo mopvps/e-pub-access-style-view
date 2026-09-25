@@ -1,0 +1,8 @@
+<div class="U03_draw-in-boxess">
+<p class="U01_noindent"><span class="el-circle">EL</span> SCAFFOLD RESPONSES Support students&#x2019; writing by providing sentence starters such as:</p>
+<ul class="U01_bullet">
+<li class="U01_bull10">I chose this text because<span aria-hidden="true">___</span>.</li>
+<li class="U01_bull10">This text interests me because<span aria-hidden="true">___</span>.</li>
+<li class="U01_bull10">I hope to learn about<span aria-hidden="true">___</span>.</li>
+</ul>
+</div>

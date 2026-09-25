@@ -1,0 +1,13 @@
+<div class="U03_draw-in-boxess">
+<p class="U01_noindent"><span class="U06_toccurb1">MODEL</span></p>
+<ul class="U01_bullet">
+<li class="U01_bull10">Brainstorm related words. Say, <span class="U01_blue">&#x201C;To help answer the essential question, I first want to think of words that might describe someone who responds to a challenge. Taking on challenges can be hard and scary, so people must be brave to face a challenge. Brave definitely fits in column 1.&#x201D;</span></li>
+<li class="U01_bull10">Ask students to share other words that describe someone who responds to a challenge. Add new words to column 1 as a class.</li>
+</ul>
+<p class="U01_noindent1"><span class="U06_toccurb1">APPLY</span></p>
+<ul class="U01_bullet">
+<li class="U01_bull10">Have students work in small groups to brainstorm words related to overcome and challenge.</li>
+<li class="U01_bull10">Use a Response Protocol to have students share their words. Clarify any misunderstandings if words are not related to or synonyms for overcome and challenge.</li>
+</ul>
+<p class="U01_noindent1"><span class="el-circle">EL</span> See the Session Preview for differentiated EL support.</p>
+</div>

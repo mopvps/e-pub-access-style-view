@@ -1,1 +1,6 @@
-Sample code
+<div class="U03_draw-in-boxess">
+<p class="U01_noindent"><span class="U06_toccurb1">CHECK</span> Have students complete the Do Now independently to prime their thinking about risky situations in the wild. Invite volunteers to share their responses.</p>
+</div>
+<div class="U03_draw-in-boxess">
+<p class="U01_noindent"><span class="U06_toccurb1">DISCUSS</span> Use a Response Protocol to have students read the Unit Goals. Ask, <span class="U01_blue">&#x201C;In your own words, what will you learn during this unit?&#x201D;</span> Explain that psychology of survival means &#x201C;the mental aspect of surviving an extreme situation or challenge.&#x201D; Note that students will learn more about psychology in this session and the next.</p>
+</div>
