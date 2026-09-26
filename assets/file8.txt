@@ -1,0 +1,20 @@
+<span class="U01_E_star" aria-hidden="true">E</span>
+
+
+.U01_E_star {
+    color: #A00063;
+    font-family: OpenSans;
+    font-weight: bold;
+    font-size: 1.2em;
+    display: inline-block;
+    text-align: center;
+    line-height: 1;
+}
+
+.U01_E_star::after {
+    content: "\2605";
+    display: block;
+    font-size: 1.5em;
+    line-height: 1;
+    margin-top: 2px;
+}

@@ -1,0 +1,9 @@
+<span class="U01_highlight_box">Because she relies on her relationships in a difficult time, Elena is able to perform her role in the play.</span>
+
+
+.U01_highlight_box {
+    border: 2px solid #A00063;
+    border-radius: 8px;
+    padding: 4px 8px;
+    display: inline-block;
+}

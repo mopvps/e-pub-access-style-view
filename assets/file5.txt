@@ -1,0 +1,21 @@
+<div class="U03_draw-in-boxess">
+<p class="U01_noindent"><span class="U01_purple1">CHECK FOR UNDERSTANDING</span></p>
+<p class="U01_noindent"><span class="U01_purple">IF</span> Students do not write topic or concluding sentences that effectively work together to make the paragraph complete</p>
+<p class="U01_noindent"><span class="U01_purple">THEN</span> Have them review the paragraphs, asking them guiding questions to help them identify the main idea of each paragraph. Remind students that topic and concluding sentences keep readers focused on the main idea.</p>
+</div>
+
+
+
+
+.U01_purple
+{
+background-color:#5E2C8C;
+color:#FFFFFF;
+}
+
+.U01_purple1
+{
+background-color:#5E2C8C;
+color:#FFFFFF;
+padding-right:5em;
+}

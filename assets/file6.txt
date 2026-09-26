@@ -1,0 +1,47 @@
+<div class="U01_summary-box">
+<div class="U01_summary-header">TEACHER&#x2019;S SUMMARY
+</div>
+<div class="U01_summary-sub">
+PARAGRAPHS 209&#x2013;221
+</div>
+<p class="U01_summary-text">
+Diver Jason Mallinson works to keep Note safe as he dives Note out of the cave. Mallinson must avoid bumping into underwater obstacles and ensure that Note&#x2019;s mask stays sealed. Other members of the rescue team anxiously await their arrival in Chamber 3. Suddenly, they see the guideline between Chambers 3 and 4 twitch.</p>
+</div>
+
+
+
+.U01_caption-box {
+  background-color: #F4E8D8 !important; 
+  color: #111111 !important;           
+  padding: 14px 18px !important;
+  margin: 1em 0 !important;
+  display: block;
+  font-family: inherit;
+  line-height: 1.4;
+}
+.U01_summary-box {
+  background-color: #F0EAF4;
+  border: 1px solid #6A3289;
+  padding: 16px !important;
+  margin: 1.5em 0 !important;
+  display: block;
+  font-family: inherit;
+}
+
+.U01_summary-header {
+  background-color: #6A3289 
+  color: #FFFFFF;          
+  padding: 6px 12px;
+  font-weight: bold;
+  font-size: 1.05em;
+  margin: -16px -16px 14px -16px;       
+  letter-spacing: 0.5px;
+}
+
+/* Subheading & Paragraph Text */
+.U01_summary-sub {
+  font-weight: bold;
+  color: #111111 !important;         
+  margin-bottom: 8px;
+  font-size: 0.95em;
+}
